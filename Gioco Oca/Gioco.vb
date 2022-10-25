@@ -1,6 +1,7 @@
 ﻿Public Class Gioco
 
     Dim dado As New Integer
+Dim a as New integer
     Dim dadoR As New Random
     Dim n As New Integer
 
