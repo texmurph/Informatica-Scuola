@@ -1,5 +1,5 @@
 ﻿Public Class Gioco
-
+    test
     Dim dado As New Integer
     Dim dadoR As New Random
     Dim n As New Integer
